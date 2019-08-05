@@ -20,7 +20,7 @@ import android.widget.Toast;
 
 import java.io.IOException;
 
-import dotwaves.androidradiostreamingapp.R;
+import q42.androidradiostreamingapp.R;
 
 public class MainActivity extends AppCompatActivity implements AudioManager.OnAudioFocusChangeListener {
 
