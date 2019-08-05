@@ -9,7 +9,7 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:background="@drawable/black"
-    tools:context="dotwaves.androidradiostreamingapp.MainActivity">
+    tools:context="q42.androidradiostreamingapp.MainActivity">
 
     <ImageButton
         android:id="@+id/btnPlayPause"
@@ -46,14 +46,9 @@
 
     <ImageView
         android:id="@+id/imageView"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginLeft="60dp"
-        android:layout_marginTop="100dp"
-        android:scaleX="1.3"
-        android:scaleY="1.3"
-        android:theme="@style/AppTheme"
-        app:srcCompat="@mipmap/logo_final" />
+        android:layout_width="363dp"
+        android:layout_height="342dp"
+        android:src="@mipmap/logo" />
 
 
 </RelativeLayout>
