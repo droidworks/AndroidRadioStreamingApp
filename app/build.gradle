@@ -4,7 +4,7 @@ android {
     compileSdkVersion 27
 
     defaultConfig {
-        applicationId "dotwaves.androidradiostreamingapp"
+        applicationId "q42.androidradiostreamingapp"
         minSdkVersion 14
         targetSdkVersion 27
         versionCode 3
