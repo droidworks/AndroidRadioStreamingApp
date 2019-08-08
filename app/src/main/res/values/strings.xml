@@ -3,7 +3,7 @@
     <string name="loading">"Loading your q42 stream \Might be awhile :)&#8230;"</string>
     <string name="no_internet"> Please check your internet connection! </string>
     <!--string name="stream_url">"http://s7.voscast.com:10854"</-string>-->
-    <string name="stream_url">"http://listen.radionomy.com/quardeux"</string>
+    <string name="stream_url">"http://listen64.radionomy.com/quardeux"</string>
     <!--<string name="by_ercan_duman">q42 by ecovaran\nhttps://github.com/droidworks</string>-->
     <string name="by_ercan_duman">
         <![CDATA[
