@@ -46,8 +46,12 @@
 
     <ImageView
         android:id="@+id/imageView"
-        android:layout_width="363dp"
-        android:layout_height="342dp"
+        android:layout_width="390dp"
+        android:layout_height="419dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
         android:src="@mipmap/logo" />
 
 
