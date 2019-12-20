@@ -17,6 +17,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 //import dotwaves.androidradiostreamingapp.R;
+//load player
 
 import java.io.IOException;
 
